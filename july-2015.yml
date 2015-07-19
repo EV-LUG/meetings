@@ -23,18 +23,18 @@ Group:
 			- integrated into network card firmware
 			- super small environment
 			
-		iPXE
+		iPXE:
 			- Open Source implementation of PXE
 			- independent PXE stack
 			- can be loaded by other means (cd, floppy, PXE)
 			
-		FOG 
-			 - born out of necessity to restore a computer, wanted to be able to blow away all the systems and recover with image
-			 - Open Source
-			 - LAMP Stack
-			 - Active community
-			 - uses iPXE for network booting
-			 - manages 'groups' of computers so you can apply the same image or settings to multiple machines
-			 - multicast images via UDP 
-			 - designed particularly for Windows System Imaging
-			 - You can run 1 normal FOG server and have several storage fog servers	
+		FOG:
+			- born out of necessity to restore a computer, wanted to be able to blow away all the systems and recover with image
+			- Open Source
+			- LAMP Stack
+			- Active community
+			- uses iPXE for network booting
+			- manages 'groups' of computers so you can apply the same image or settings to multiple machines
+			- multicast images via UDP 
+			- designed particularly for Windows System Imaging
+			- You can run 1 normal FOG server and have several storage fog servers	
