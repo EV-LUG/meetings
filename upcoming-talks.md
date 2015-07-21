@@ -3,9 +3,9 @@
 ## Upcoming Talks
 This is a doc for preposed up coming talks - Suggestions welcomed drop us a line [here](https://gitter.im/EV-LUG/meetings/talks)
 
-| Who               |  Topic              |  Date       |
-|-------------------|---------------------|-------------|
-| Brian Bates       |  Apache Mesos       | ?2015-08-21 |
+| Who               |  Topic                           |  Date       |
+|-------------------|----------------------------------|-------------|
+| Jason Hiatt       |  Apache Mesos/Docker/Open Stack  | ?2015-08-21 |
 
 <br>
 <br>
