@@ -6,6 +6,7 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 | Who               |  Topic                           |  Date       |
 |-------------------|----------------------------------|-------------|
 | Jason Hiatt       |  Apache Mesos/Docker/Open Stack  | ?2015-08-21 |
+| Carl Hicks        |  Mosh                            | 2015-08-21  |
 
 <br>
 <br>
