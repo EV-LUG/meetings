@@ -3,10 +3,10 @@
 ## Upcoming Talks
 This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a line [here](https://gitter.im/EV-LUG/meetings/talks)
 
-| Who               |  Topic                           |  Date       |
-|-------------------|----------------------------------|-------------|
-| Jason Hiatt       |  Apache Mesos/Docker/Open Stack  | ?2015-08-21 |
-| Carl Hicks        |  Mosh                            | 2015-08-21  |
+| Who               |  Topic                |  Date       |
+|-------------------|-----------------------|-------------|
+| Jason Hiatt       |  Apache Mesos/Docker  | 2015-08-21  |
+| Carl Hicks        |  Mosh                 | 2015-08-21  |
 
 <br>
 <br>
