@@ -4,7 +4,7 @@
 EVLUG Meeting Notes
 ===================
 
-[Upcoming Talk][1]  
+[Upcoming Talks][1]  
 
 
 This repository contains notes from meetings:  
