@@ -4,15 +4,18 @@
 EVLUG Meeting Notes
 ===================
 
+[Upcoming Talk][1]  
+
 
 This repository contains notes from meetings:  
 
-[**2015-07-17:**][1] [**FOG**][2] | Brian Bates  
+[**2015-07-17:**][2] [**FOG**][3] | Brian Bates  
 
 
 ---
 To update this doc:  
 Fork the repo and send a pull request with your changes.
 
-[1]: https://github.com/EV-LUG/meetings/blob/master/july-2015.md
-[2]: https://www.fogproject.org/
+[1]: https://github.com/EV-LUG/meetings/blob/master/upcoming-talks.md
+[2]: https://github.com/EV-LUG/meetings/blob/master/july-2015.md
+[3]: https://www.fogproject.org/
