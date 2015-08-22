@@ -22,6 +22,6 @@ Fork the repo and send a pull request with your changes.
 [2]: https://github.com/EV-LUG/meetings/blob/master/july-2015.md
 [3]: https://www.fogproject.org/
 [4]: https://github.com/EV-LUG/meetings/blob/master/august-2015.md
-[6]: https://mosh.mit.edu/
+[5]: https://mosh.mit.edu/
 [6]: https://mesos.apache.org/
 [7]: https://www.docker.com/
