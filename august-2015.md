@@ -12,7 +12,7 @@ Group:
 
 ### Attendance:
 
-  **New Comers:** Two new comers, Adam & Josh
+  **New Comers:** Three new comers, Adam, Josh, and James
 
   **Total Attendance:** 13
 
