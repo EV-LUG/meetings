@@ -10,8 +10,8 @@ EVLUG Meeting Notes
 This repository contains notes from meetings:  
 
 [**2015-07-17:**][2] [**FOG**][3] | Brian Bates  
-[**2015-08-21:**][4] [**Mosh**][5] | [Carl Hicks][6]  
-[**2015-08-21:**][4] **[Mesos][7]/[Docker][8]** | [Jason hiatt][9]  
+[**2015-08-21:**][4] [**Mosh**][5] | [Carl Hicks][6] [(slides)][7]  
+[**2015-08-21:**][4] **[Mesos][8]/[Docker][9]** | [Jason hiatt][10]  
 
 
 ---
@@ -24,6 +24,7 @@ Fork the repo and send a pull request with your changes.
 [4]: https://github.com/EV-LUG/meetings/blob/master/august-2015.md
 [5]: https://mosh.mit.edu/  
 [6]: https://github.com/hicksca
-[7]: https://mesos.apache.org/
-[8]: https://www.docker.com/
-[9]: https://github.com/jthiatt
+[7]: https://github.com/EV-LUG/meetings/blob/master/presentations/Carl%20Hicks/mosh.pdf
+[8]: https://mesos.apache.org/
+[9]: https://www.docker.com/
+[10]: https://github.com/jthiatt
