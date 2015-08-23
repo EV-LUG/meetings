@@ -9,8 +9,7 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 
 | Who               |  Topic                |  Date       |
 |-------------------|-----------------------|-------------|
-| Jason Hiatt       |  Apache Mesos/Docker  | 2015-08-21  |
-| Carl Hicks        |  Mosh                 | 2015-08-21  |
+|                   |                       | 2015-09-18  |  
 
 
 
