@@ -9,7 +9,7 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 
 | Who               |  Topic                |  Date       |
 |-------------------|-----------------------|-------------|
-|                   |                       | 2015-09-18  |  
+|   Mike Downey     |   Ansible / Vagrant   | 2015-09-18  |  
 
 
 
