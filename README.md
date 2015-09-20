@@ -12,6 +12,7 @@ This repository contains notes from meetings:
 [**2015-07-17:**][2] [**FOG**][3] | Brian Bates  
 [**2015-08-21:**][4] [**Mosh**][5] | [Carl Hicks][6] [(slides)][7]  
 [**2015-08-21:**][4] **[Mesos][8]/[Docker][9]** | [Jason hiatt][10]  
+**2015-09-18:** **Ansiable/Vagrant** | Mike Downey  
 
 
 ---
