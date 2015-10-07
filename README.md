@@ -12,7 +12,7 @@ This repository contains notes from meetings:
 [**2015-07-17:**][2] [**FOG**][3] | Brian Bates  
 [**2015-08-21:**][4] [**Mosh**][5] | [Carl Hicks][6] [(slides)][7]  
 [**2015-08-21:**][4] **[Mesos][8]/[Docker][9]** | [Jason hiatt][10]  
-**2015-09-18:** **Ansiable/Vagrant** | Mike Downey  
+**2015-09-18:** **[Ansiable][11]/[Vagrant][12]** | [Mike Downey][13] [(slides)][14]
 
 
 ---
@@ -29,3 +29,7 @@ Fork the repo and send a pull request with your changes.
 [8]: https://mesos.apache.org/
 [9]: https://www.docker.com/
 [10]: https://github.com/jthiatt
+[11]: http://www.ansible.com/
+[12]: https://www.vagrantup.com/
+[13]: https://github.com/mikedowney01
+[14]: https://github.com/EV-LUG/meetings/blob/master/presentations/Mike%20Downey/ansibleandvagrant.pdf
