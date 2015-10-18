@@ -13,7 +13,7 @@ This repository contains notes from meetings:
 [**2015-08-21:**][4] [**Mosh**][5] | [Carl Hicks][6] [(slides)][7]  
 [**2015-08-21:**][4] **[Mesos][8]/[Docker][9]** | [Jason hiatt][10]  
 **2015-09-18:** **[Ansiable][11]/[Vagrant][12]** | [Mike Downey][13] [(slides)][14]  
-[**2015-10-16**][15]**[PowerShell][16]** | [Adam Bertram][17] [(slides)][18]
+[**2015-10-16:**][15] **[PowerShell][16]** | [Adam Bertram][17] [(slides)][18]
 
 
 ---
