@@ -34,6 +34,7 @@ Fork the repo and send a pull request with your changes.
 [12]: https://www.vagrantup.com/
 [13]: https://github.com/mikedowney01
 [14]: https://github.com/EV-LUG/meetings/blob/master/presentations/Mike%20Downey/ansibleandvagrant.pdf
+[15]: https://github.com/EV-LUG/meetings/blob/master/october-2015.md
 [16]: https://msdn.microsoft.com/en-us/mt173057.aspx
 [17]: https://github.com/adbertram
 [18]: https://github.com/EV-LUG/meetings/tree/master/presentations/Adam%20Bertram/ATA_Powershell-Linux_v2-2.pdf
