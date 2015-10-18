@@ -12,7 +12,7 @@ Group:
 
 ### Attendance:
 
-  **New Comers:** Two new comers, Phil, Jos
+  **New Comers:** Two new comers, Phil, Shawn
 
   **Total Attendance:** 11
 
