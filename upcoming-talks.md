@@ -9,7 +9,7 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 
 | Who               |  Topic                |  Date       |
 |-------------------|-----------------------|-------------|
-|   Adam Bertram    |      PowerShell       | 2015-10-16  |  
+|                   |                       | 2015-11-20  |  
 
 
 
