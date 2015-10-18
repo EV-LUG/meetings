@@ -24,7 +24,7 @@ Group:
 
 ### Topic:
 
-  - [PowerShell][1] (modern scripting lanaguage)
+  - [PowerShell][1] (modern scripting lanaguage for windows)
   
   
 [1]: https://msdn.microsoft.com/en-us/mt173057.aspx
