@@ -9,14 +9,10 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 
 | Who               |  Topic                |  Date       |
 |-------------------|-----------------------|-------------|
-|   [Jon Moore][2]  |   gpg/pgp (email)     | ?2015-11-20 |  
+| to be determined  |    to be determine    | ?2015-11-20 |  
 
 
 
 ---
 To update this doc:  
 Fork the repo and send a pull request with your changes.
-
-
-[1]: https://gitter.im/EV-LUG/meetings/talks
-[2]: https://github.com/offdutypirate
