@@ -16,3 +16,5 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 ---
 To update this doc:  
 Fork the repo and send a pull request with your changes.
+
+-[1]: https://gitter.im/EV-LUG/meetings/talks
