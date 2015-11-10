@@ -1,4 +1,4 @@
-Meeting Notes - August 21 2015
+Meeting Notes - October 16 2015
 ============================
 
 Website:
