@@ -27,15 +27,15 @@ Group:
 ### Topic:
 
   - [ReactJS][1]
-        - Built by facebook/Instagram
-        - Open-source JavaScript library providing a view for data rendered as HTML.
-        - Notable Features:
-                  - One-way data flow
-                  - Virtual DOM
-                  - JSX
-                  - Architecture beyond HTML
+    - Built by facebook/Instagram
+    - Open-source JavaScript library providing a view for data rendered as HTML.
+    - Notable Features:
+    - One-way data flow
+    - Virtual DOM
+    - JSX
+    - Architecture beyond HTML
 
-        - Small test SPA Jonathon build [Hahu][2] and code behind it on github[here][3] to show off React features 
+    - Small test SPA Jonathon build [Hahu][2] and code behind it on github [here][3] to show off React features 
   
 [1]: https://facebook.github.io/react/
 [2]: http://test.dayat.net/hahu/
