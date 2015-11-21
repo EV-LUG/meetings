@@ -14,8 +14,8 @@ This repository contains notes from meetings:
 [**2015-08-21:**][4] **[Mesos][8]/[Docker][9]** | [Jason hiatt][10]  
 **2015-09-18:** **[Ansiable][11]/[Vagrant][12]** | [Mike Downey][13] [(slides)][14]  
 [**2015-10-16:**][15] **[PowerShell][16]** | [Adam Bertram][17] [(slides)][18]
-
-
+[**2015-11-20:**][19] **[ReactJS][20]** | [Jonathon Klem][21]
+**2015-12-18** No meeting this month
 ---
 To update this doc:  
 Fork the repo and send a pull request with your changes.
@@ -38,3 +38,6 @@ Fork the repo and send a pull request with your changes.
 [16]: https://msdn.microsoft.com/en-us/mt173057.aspx
 [17]: https://github.com/adbertram
 [18]: https://github.com/EV-LUG/meetings/tree/master/presentations/Adam%20Bertram/ATA_Powershell-Linux_v2-2.pdf
+[19]: https://github.com/EV-LUG/meetings/blob/master/meeting-notes/november-2015.md
+[20]: https://facebook.github.io/react/ 
+[21]: https://github.com/jonathonklem
