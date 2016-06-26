@@ -1,15 +1,12 @@
-[![Join the chat at https://gitter.im/EV-LUG/meetings/talks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EV-LUG/meetings/talks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
 Upcoming Talks
 --------------
 
 This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a line [here][1] 
 
 
-| Who               |  Topic                |  Date       |
-|-------------------|-----------------------|-------------|
-| to be determined  |    to be determine    | ?2015-11-20 |  
+| Who               |  Topic                              |  Date      |
+|-------------------|-------------------------------------|------------|
+|  [Adam Bertram][2]  | Deplying VMs to Azure w/Powershell  | 2016-06-26 |  
 
 
 
@@ -17,4 +14,5 @@ This is a doc for proposed upcoming talks - Suggestions are welcomed, drop us a 
 To update this doc:  
 Fork the repo and send a pull request with your changes.
 
--[1]: https://gitter.im/EV-LUG/meetings/talks
+[1]: https://groups.google.com/forum/#!topic/evlug/fG5GDW5fyVY  
+[2]: http://www.adamtheautomator.com/powershell-mvp-adam-bertram/
