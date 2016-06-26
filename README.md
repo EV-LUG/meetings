@@ -19,9 +19,9 @@ To update this doc:
 Fork the repo and send a pull request with your changes.
 
 [1]: https://github.com/EV-LUG/meetings/blob/master/upcoming-talks.md
-[2]: https://github.com/EV-LUG/meetings/blob/master/july-2015.md
+[2]: https://github.com/EV-LUG/meetings/blob/master/meeting-notes/july-2015.md
 [3]: https://www.fogproject.org/
-[4]: https://github.com/EV-LUG/meetings/blob/master/august-2015.md
+[4]: https://github.com/EV-LUG/meetings/blob/master/meeting-notes/august-2015.md
 [5]: https://mosh.mit.edu/  
 [6]: https://github.com/hicksca
 [7]: https://github.com/EV-LUG/meetings/blob/master/presentations/Carl%20Hicks/mosh.pdf
@@ -32,7 +32,7 @@ Fork the repo and send a pull request with your changes.
 [12]: https://www.vagrantup.com/
 [13]: https://github.com/mikedowney01
 [14]: https://github.com/EV-LUG/meetings/blob/master/presentations/Mike%20Downey/ansibleandvagrant.pdf
-[15]: https://github.com/EV-LUG/meetings/blob/master/october-2015.md
+[15]: https://github.com/EV-LUG/meetings/blob/master/meeting-notes/october-2015.md
 [16]: https://msdn.microsoft.com/en-us/mt173057.aspx
 [17]: https://github.com/adbertram
 [18]: https://github.com/EV-LUG/meetings/tree/master/presentations/Adam%20Bertram/ATA_Powershell-Linux_v2-2.pdf
