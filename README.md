@@ -41,5 +41,5 @@ Fork the repo and send a pull request with your changes.
 [21]: https://github.com/jonathonklem
 [22]: https://webrtc.org/
 [23]: https://github.com/danarbaugh
-[24]: https://github.com/EV-LUG/meetings/tree/june-slides/presentations/Dan%20Arbaugh/webrtc-test.pptx
+[24]: https://github.com/EV-LUG/meetings/blob/master/presentations/Dan%20Arbaugh/webrtc-test.pdf
 [25]: https://github.com/EV-LUG/webrtc-test
